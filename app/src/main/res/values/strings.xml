@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="button_send">Log In</string>
+    <string name="imports">Importing and exporting</string>
+    <string name="Username">Username:</string>
+    <string name="regional">Regional alliances</string>
+    <string name="national">National alliances</string>
+    <string name="international">International alliances</string>
+    <string name="Lets">Lets Start The Quiz!</string>
+    <string name="Question1">Question 1:</string>
+    <string name="Question_2">Question 2:</string>
+    <string name="qb">Buying and selling of products and services from firms in other countries is called..</string>
+    <string name="qb2">Generation of people born between years 1980 to 1990 are classified as</string>
+    <string name="submit">Submit</string>
+    <string name="button_2a">matures</string>
+    <string name="button_2b">baby boomers</string>
+    <string name="button_2c">Generation X</string>
+    <string name="button_2d">Generation Y</string>
+    <string name="Question_3">Question 3:</string>
+    <string name="qb3">Degree to which employees desire to stay loyal with organization and accept goals of organization is classified as</string>
+    <string name="button_3a">organizational commitment</string>
+    <string name="button_3b">job dissatisfaction</string>
+    <string name="button_3c">job satisfaction</string>
+    <string name="button_3d">job commitment</string>
+    <string name="Question_5">Question 5:</string>
+    <string name="qb5">Tasks in a job that are not part of job but are result of any incident related to organization is classified as..</string>
+    <string name="button_5a">responsive functions</string>
+    <string name="button_5b">flexible functions</string>
+    <string name="button_5c">marginal functions</string>
+    <string name="button_5d">descriptive functions</string>
+
+
+
+
+
+
+    <string name="Question_4">Question 4</string>
+    <!-- Question text 4 [CHAR LIMIT = 200] -->
+    <string name="qb4">Researcher finds what people thinks with help of.. </string>
+    <!-- Answers a for Question 4 [CHAR LIMIT = 100] -->
+    <string name="button_4a">open ended question</string>
+    <!-- Answers b for Question 4 [CHAR LIMIT = 100] -->
+    <string name="button_4b">close ended question</string>
+    <!-- Answers c for Question 4 [CHAR LIMIT = 100] -->
+    <string name="button_4c">Primary Research</string>
+    <!-- Answers d for Question 4 [CHAR LIMIT = 100] -->
+    <string name="button_4d">None of the above</string>
+
+
+
+    <string name="result_0_20">You have failed the quiz! Go Study!</string>
+    <string name="result_20_40">You should improve your knowledge, dear friend!</string>
+    <string name="result_40_50">Congratulations! You have passed the Quiz!</string>
+
+
+
+
+
+
+
+
+
+
+
+</resources>
